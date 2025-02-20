@@ -1,5 +1,11 @@
-## Hi there 👋
+➡️ English version 
 
+## 👋 Bonjour à toi !
+#### Moi c'est Corentin, on est ici pour que je puisse me présenter 😊
+
+### 🪧 À propos de moi :
+
+### 🛠️ Langages et outils :
 <!--
 **Corentin-Marliere/Corentin-Marliere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
